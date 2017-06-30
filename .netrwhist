@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/jeffreyway/code/laracasts/UltiSnips'
+let g:netrw_dirhist_2='/Users/jeffreyway/code/laravel-mix'
+let g:netrw_dirhist_3='/Users/jeffreyway/code/laravel-mix/src'
+let g:netrw_dirhist_4='/Users/jeffreyway/code/laravel-mix/test/plugins'
+let g:netrw_dirhist_5='/Users/jeffreyway/code/laravel-mix/src/plugins'
+let g:netrw_dirhist_6='/Users/jeffreyway/code/laravel-mix/test/plugins'
+let g:netrw_dirhist_7='/Users/jeffreyway/code/laravel-mix/src/plugins'
+let g:netrw_dirhist_8='/Users/jeffreyway/code/laravel-mix/src'
+let g:netrw_dirhist_9='/Users/jeffreyway/code/laravel-mix'
